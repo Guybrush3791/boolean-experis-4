@@ -351,7 +351,7 @@ sequenceDiagram
 ![[User Journey Diagram#Intro]]
 
 ##### Git
-![[Git#Intro]]
+![[Extra/Markdown/Mermaid/Git#Intro]]
 
 ##### Pie
 ![[Pie#Intro]]
