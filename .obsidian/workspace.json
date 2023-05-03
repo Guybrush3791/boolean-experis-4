@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6e1c7111b3684312",
+        "id": "72f05adc358c7009",
         "type": "tabs",
         "children": [
           {
-            "id": "e59aff1ea6de0400",
+            "id": "5afd1bf924633f50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips&Tricks/Git.md",
+                "file": "Snacks/2023-05-03 - Hello Java.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips&Tricks/Git.md",
+                "file": "Snacks/2023-05-03 - Hello Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips&Tricks/Git.md",
+                "file": "Snacks/2023-05-03 - Hello Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips&Tricks/Git.md"
+                "file": "Snacks/2023-05-03 - Hello Java.md"
               }
             }
           }
@@ -146,10 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e59aff1ea6de0400",
+  "active": "5afd1bf924633f50",
   "lastOpenFiles": [
-    "Extra/Markdown/Markdown + Obsidian.md",
     "Tips&Tricks/Git.md",
+    "Snacks/2023-05-03 - Hello Java.md",
+    "Snacks/Untitled.md",
+    "Snacks",
+    "Extra/Markdown/Markdown + Obsidian.md",
     "Tips&Tricks",
     "Extra",
     "Extra/Markdown/Slides/Slides demo.md",
