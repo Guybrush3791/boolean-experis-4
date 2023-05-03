@@ -1,10 +1,3 @@
-# Pull di progetto gia' clonato
-Dopo essere entrato in cartella progetto da terminale, do il seguente comando:
-```sh
-git stash
-git pull
-```
-
 # Creazione nuovo progetto
 *Dopo essere entrato in cartella progetto* da terminale, do i seguenti comandi:
 ```sh
@@ -16,10 +9,23 @@ git branch -M main
 git push -u origin main 
 ```
 
-# Update progetto esistente
+# Caricare modifiche progetto esistente
 *Dopo essere entrato in cartella progetto* da terminale, do i seguenti comandi:
 ```sh
 git add -A
 git commit -m "new update super fix"
 git push
 ```
+
+# Scaricare modifiche progetto esistente
+*Dopo essere entrato in cartella progetto* da terminale, do i seguenti comandi:
+```sh
+git pull
+```
+
+> [!attention] SOLO PER DOCUMENTAZIONE
+> Utilizzare il seguente comando per annullare tutte le modifiche locali e scaricare la versione piu' aggiornata:
+> ```
+> git stash
+> ```
+
