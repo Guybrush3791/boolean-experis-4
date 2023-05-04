@@ -29,3 +29,12 @@ Poi stampate a video:
 Stampate a video anche il cibo di mezza classifica, cioè che si trova nella posizione mediana.
 
 [Correzione](https://github.com/Guybrush3791/exp-java-4-java-biglietto-treno/blob/main/src/org/lessons/java/CibiPreferiti.java)
+
+### Update: 17:00
+Aggiungere al `package` dell'esercizio precedente una classe `FizzBuzz` col suo metodo `main`.
+Scrivi un programma che stampi i numeri *da 1 a 100*,
+ma per *i multipli di 3 stampi Fizz* al posto del numero e *per i multipli di 5 stampi Buzz*.
+Per i numeri che sono *sia multipli di 3 che di 5 stampi FizzBuzz*.
+
+#### Bonus
+Chiede all'utente il numero di valori da valutare (al posto di fermarsi a 100, fermarsi al valore suggerito dall'utente).
