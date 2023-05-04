@@ -11,3 +11,17 @@ Come sempre create un progetto java con lo stesso nome del repo (`java-biglietto
 Per acquisire l’input dell’utente usate la classe `Scanner`, come visto stamattina a lezione.
 
 Buon lavoro!
+
+### Update: 15:10
+> [!note] PER CHI HA FINITO
+
+Aggiungere al `package` dell'esercizio precedente una classe `CibiPreferiti` col suo metodo `main`.
+Nel programma inizializzate un `array` (con i metodi visti a lezione) con la *classifica dei vostri cibi preferiti* (minimo 5, massimo 10 elementi).
+
+Poi stampate a video:
+- la *lunghezza della classifica*
+- il vostro *cibo top* (prima posizione della classifica)
+- il vostro *cibo preferito ma non troppo* (ultima posizione della classifica)
+
+#### BONUS
+Stampate a video anche il cibo di mezza classifica, cioè che si trova nella posizione mediana.
