@@ -40,6 +40,8 @@ Per i numeri che sono *sia multipli di 3 che di 5 stampi FizzBuzz*.
 #### Bonus
 Chiede all'utente il numero di valori da valutare (al posto di fermarsi a 100, fermarsi al valore suggerito dall'utente).
 
+[Correzione](https://github.com/Guybrush3791/exp-java-4-java-biglietto-treno/blob/main/src/org/lessons/java/FizzBuzz.java)
+
 ### EX: Bonus
 State lavorando col servizio di sicurezza dei Ferragnez e il vostro compito è di *assicurarvi che accedano alla festa solo gli invitati presenti sulla lista* (in fondo al post).
 
@@ -54,3 +56,5 @@ Nel caso in cui sia stato utilizzato il ciclo `for`, svolgere la stessa ricerca 
 ```
 Lista invitati: Dua Lipa, Paris Hilton, Manuel Agnelli, J-Ax, Francesco Totti, Ilary Blasi, Bebe Vio, Luis, Pardis Zarei, Martina Maccherone, Rachel Zeilic
 ```
+
+[Correzione](https://github.com/Guybrush3791/exp-java-4-java-biglietto-treno/blob/main/src/org/lessons/java/CheckGuest.java)
