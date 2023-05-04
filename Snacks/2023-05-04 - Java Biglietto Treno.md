@@ -38,3 +38,18 @@ Per i numeri che sono *sia multipli di 3 che di 5 stampi FizzBuzz*.
 
 #### Bonus
 Chiede all'utente il numero di valori da valutare (al posto di fermarsi a 100, fermarsi al valore suggerito dall'utente).
+
+### EX: Bonus
+State lavorando col servizio di sicurezza dei Ferragnez e il vostro compito è di *assicurarvi che accedano alla festa solo gli invitati presenti sulla lista* (in fondo al post).
+
+Aggiungere al `package` dell'esercizio precedente una classe `CheckGuest` col suo metodo `main`.
+Generare all'interno del `main` un array contenente la lista degli invitati (presente in calce).
+Chiedere poi all'utente il suo nome e verificarne la presenza nella lista, dando risposta sensata all'utente.
+
+#### Bonus
+Nel caso in cui sia stato utilizzato il ciclo `for`, svolgere la stessa ricerca tramite ciclo `while` e viceversa
+
+#### Data
+```
+Lista invitati: Dua Lipa, Paris Hilton, Manuel Agnelli, J-Ax, Francesco Totti, Ilary Blasi, Bebe Vio, Luis, Pardis Zarei, Martina Maccherone, Rachel Zeilic
+```
