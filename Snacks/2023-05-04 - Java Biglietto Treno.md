@@ -12,6 +12,8 @@ Per acquisire l’input dell’utente usate la classe `Scanner`, come visto stam
 
 Buon lavoro!
 
+[Correzione](https://github.com/Guybrush3791/exp-java-4-java-biglietto-treno/blob/main/src/org/lessons/java/CalcolaBiglietto.java)
+
 ### Update: 15:10
 > [!note] PER CHI HA FINITO
 
@@ -25,3 +27,5 @@ Poi stampate a video:
 
 #### BONUS
 Stampate a video anche il cibo di mezza classifica, cioè che si trova nella posizione mediana.
+
+[Correzione](https://github.com/Guybrush3791/exp-java-4-java-biglietto-treno/blob/main/src/org/lessons/java/CibiPreferiti.java)
