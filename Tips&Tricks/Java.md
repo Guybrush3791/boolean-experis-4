@@ -1,3 +1,5 @@
+# Array
+## Stampa facile
 Stampare array
 ```java
 String[] arr = { "Hello", "World" };
