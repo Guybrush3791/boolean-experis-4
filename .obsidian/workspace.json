@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 204.5
   },
   "right": {
     "id": "33d9a8222809dcd4",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips&Tricks/Java.md",
+                "file": "Snacks/2023-05-05  - Snacks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips&Tricks/Java.md",
+                "file": "Snacks/2023-05-05  - Snacks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips&Tricks/Java.md"
+                "file": "Snacks/2023-05-05  - Snacks.md"
               }
             }
           }
@@ -159,10 +158,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "04219e41e43b209f",
+  "active": "8e93b2c747876ef2",
   "lastOpenFiles": [
-    "Snacks/2023-05-05  - Snacks.md",
     "Tips&Tricks/Java.md",
+    "Snacks/2023-05-05  - Snacks.md",
     "Live/2023-05-05.md",
     "Snacks/2023-05-04 - Java Biglietto Treno.md",
     "Snacks/2023-05-03 - Hello Java.md",
