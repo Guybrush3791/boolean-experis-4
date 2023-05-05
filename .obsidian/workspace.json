@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-05-04 - Java Biglietto Treno.md",
-                "mode": "preview",
+                "file": "Live/2023-05-05.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-04 - Java Biglietto Treno.md",
+                "file": "Live/2023-05-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-04 - Java Biglietto Treno.md",
+                "file": "Live/2023-05-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-04 - Java Biglietto Treno.md"
+                "file": "Live/2023-05-05.md"
               }
             }
           }
@@ -149,8 +149,10 @@
   "active": "8e93b2c747876ef2",
   "lastOpenFiles": [
     "Snacks/2023-05-04 - Java Biglietto Treno.md",
-    "Untitled.md",
+    "Live/2023-05-05.md",
     "Snacks/2023-05-03 - Hello Java.md",
+    "Live",
+    "Untitled.md",
     "Tips&Tricks/Git.md",
     "Snacks/Untitled.md",
     "Snacks",
