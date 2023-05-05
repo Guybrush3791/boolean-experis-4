@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "04219e41e43b209f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tips&Tricks/Java.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-05  - Snacks.md",
+                "file": "Tips&Tricks/Java.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-05  - Snacks.md",
+                "file": "Tips&Tricks/Java.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-05  - Snacks.md"
+                "file": "Tips&Tricks/Java.md"
               }
             }
           }
@@ -146,14 +159,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e93b2c747876ef2",
+  "active": "04219e41e43b209f",
   "lastOpenFiles": [
-    "Live/2023-05-05.md",
     "Snacks/2023-05-05  - Snacks.md",
+    "Tips&Tricks/Java.md",
+    "Live/2023-05-05.md",
     "Snacks/2023-05-04 - Java Biglietto Treno.md",
     "Snacks/2023-05-03 - Hello Java.md",
     "Live",
-    "Untitled.md",
     "Tips&Tricks/Git.md",
     "Snacks/Untitled.md",
     "Snacks",
