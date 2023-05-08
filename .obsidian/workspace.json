@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-05-08 - java-oop-shop.md",
+                "file": "Live/2023-05-08 - Calcolatrice.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-08 - java-oop-shop.md",
+                "file": "Live/2023-05-08 - Calcolatrice.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-08 - java-oop-shop.md",
+                "file": "Live/2023-05-08 - Calcolatrice.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-08 - java-oop-shop.md"
+                "file": "Live/2023-05-08 - Calcolatrice.md"
               }
             }
           }
@@ -160,9 +160,9 @@
   },
   "active": "8e93b2c747876ef2",
   "lastOpenFiles": [
+    "Live/2023-05-08 - java oop valutazioni.md",
     "Live/2023-05-08 - Calcolatrice.md",
     "Snacks/2023-05-08 - java-oop-shop.md",
-    "Live/2023-05-08 - java oop valutazioni.md",
     "Live/2023-05-05 - snacks.md",
     "Snacks/2023-05-04 - Java Biglietto Treno.md",
     "Snacks/2023-05-05  - Snacks.md",

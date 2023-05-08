@@ -1,6 +1,9 @@
 ## Repo
 `exp-java-4-java-oop-valutazioni`
 
+## Link
+[Repo](https://github.com/Guybrush3791/exp-java-4-java-oop-valutazioni)
+
 ## Todo
 State costruendo un programma per un corso di studi 
 
