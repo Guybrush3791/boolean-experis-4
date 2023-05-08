@@ -1,5 +1,5 @@
 ## Repo 
-`java-oop-bank`
+`java-oop-shop`
 
 ## Todo
 Nello stesso progetto, aggiungere un package `jana60.bank`, creare la classe `Conto` caratterizzata da:
