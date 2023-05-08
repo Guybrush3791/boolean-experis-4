@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-05-05  - Snacks.md",
+                "file": "Snacks/2023-05-08 - java-oop-shop.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 292.5
   },
   "right": {
     "id": "33d9a8222809dcd4",
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-05  - Snacks.md",
+                "file": "Snacks/2023-05-08 - java-oop-shop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-05  - Snacks.md",
+                "file": "Snacks/2023-05-08 - java-oop-shop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-05  - Snacks.md"
+                "file": "Snacks/2023-05-08 - java-oop-shop.md"
               }
             }
           }
@@ -160,11 +160,14 @@
   },
   "active": "8e93b2c747876ef2",
   "lastOpenFiles": [
-    "Tips&Tricks/Java.md",
-    "Snacks/2023-05-05  - Snacks.md",
+    "Live/2023-05-08 - Calcolatrice.md",
+    "Snacks/2023-05-08 - java-oop-shop.md",
+    "Live/2023-05-08 - java oop valutazioni.md",
+    "Live/2023-05-05 - snacks.md",
     "Snacks/2023-05-04 - Java Biglietto Treno.md",
+    "Snacks/2023-05-05  - Snacks.md",
+    "Tips&Tricks/Java.md",
     "Snacks/2023-05-03 - Hello Java.md",
-    "Live/2023-05-05.md",
     "Live",
     "Tips&Tricks/Git.md",
     "Snacks/Untitled.md",
