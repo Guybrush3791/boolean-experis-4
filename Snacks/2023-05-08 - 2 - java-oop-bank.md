@@ -1,11 +1,15 @@
 ## Repo 
 `java-oop-shop`
 
+## Correzione
+[Repo](https://github.com/Guybrush3791/exp-java-4-java-oop-shop)
+
 ## Todo
 Nello stesso progetto, aggiungere un package `jana60.bank`, creare la classe `Conto` caratterizzata da:
 - numero di conto
 - nome del proprietario
 - saldo
+
 Usate opportunamente i livelli di accesso (`public`, `private`), i `costruttori`, i metodi `getter` e `setter` ed eventuali altri metodi di *utilità* per fare in modo che:
 - alla creazione di un nuovo conto *il saldo sia 0€*
 - Il *codice conto* sia accessibile *solo in lettura*, il *proprietario* sia accessibile *in lettura e in scrittura* e *il saldo* sia accessibile *solo in lettura*
