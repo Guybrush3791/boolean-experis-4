@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-05-08 - 2 - java-oop-bank.md",
-                "mode": "preview",
+                "file": "Live/2023-05-09 - Ereditarieta'.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-08 - 2 - java-oop-bank.md",
+                "file": "Live/2023-05-09 - Ereditarieta'.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-08 - 2 - java-oop-bank.md",
+                "file": "Live/2023-05-09 - Ereditarieta'.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-08 - 2 - java-oop-bank.md"
+                "file": "Live/2023-05-09 - Ereditarieta'.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e93b2c747876ef2",
+  "active": "1899614acd1d278f",
   "lastOpenFiles": [
-    "Snacks/2023-05-08 - 1 - java-oop-shop.md",
     "Snacks/2023-05-08 - 2 - java-oop-bank.md",
+    "Live/2023-05-09 - Ereditarieta'.md",
+    "Snacks/2023-05-08 - 1 - java-oop-shop.md",
     "Snacks/2023-05-05  - Snacks.md",
     "Snacks/2023-05-04 - Java Biglietto Treno.md",
     "Snacks/2023-05-03 - Hello Java.md",
