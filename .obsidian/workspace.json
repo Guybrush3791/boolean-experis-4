@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-05-09 - java-inheritance-shop.md",
-                "mode": "source",
+                "file": "Snacks/2023-05-10 - java-exceptions-books.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-09 - java-inheritance-shop.md",
+                "file": "Snacks/2023-05-10 - java-exceptions-books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-09 - java-inheritance-shop.md",
+                "file": "Snacks/2023-05-10 - java-exceptions-books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-09 - java-inheritance-shop.md"
+                "file": "Snacks/2023-05-10 - java-exceptions-books.md"
               }
             }
           }
@@ -148,17 +148,19 @@
   },
   "active": "1899614acd1d278f",
   "lastOpenFiles": [
-    "Live/2023-05-09 - Ereditarieta'.md",
+    "Live/2023-05-10 - persone-list.md",
+    "Snacks/2023-05-10 - java-exceptions-books.md",
     "Snacks/2023-05-09 - java-inheritance-shop.md",
     "Snacks/2023-05-08 - 2 - java-oop-bank.md",
-    "Snacks/2023-05-08 - 1 - java-oop-shop.md",
     "Snacks/2023-05-05  - Snacks.md",
+    "Snacks/2023-05-08 - 1 - java-oop-shop.md",
+    "Tips&Tricks/Java.md",
+    "Live/2023-05-09 - Ereditarieta'.md",
     "Snacks/2023-05-04 - Java Biglietto Treno.md",
     "Snacks/2023-05-03 - Hello Java.md",
     "Live/2023-05-08 - java oop valutazioni.md",
     "Live/2023-05-08 - Calcolatrice.md",
     "Live/2023-05-05 - snacks.md",
-    "Tips&Tricks/Java.md",
     "Live",
     "Tips&Tricks/Git.md",
     "Snacks/Untitled.md",
@@ -176,8 +178,6 @@
     "Extra/Markdown/Mermaid/Gantt.md",
     "Extra/Markdown/Mermaid/Flow.md",
     "Extra/Markdown/Mermaid/Entity Relationship.md",
-    "Extra/Markdown/Mermaid/Class diagrams.md",
-    "Extra/Markdown/Attach/Markdown Linkable Note.md",
     "Extra/Markdown/Slides",
     "Extra/Markdown/Mermaid",
     "Extra/Markdown/Attach",
