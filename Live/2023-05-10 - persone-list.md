@@ -1,6 +1,11 @@
+## Link
+[Repo](https://github.com/Guybrush3791/exp-java-4-persone-list)
+
+## Todo
 Generare classe `Persona` con le seguenti caratteristiche:
 - name
 - surname
+- 
 - dateOfBirth
 
 Nel caso in cui i dati inseriti per creare una nuova `Persona` non siano congruenti, scatenare **Eccezione**

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-05-10 - java-exceptions-books.md",
-                "mode": "preview",
+                "file": "Live/2023-05-10 - persone-list.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-10 - java-exceptions-books.md",
+                "file": "Live/2023-05-10 - persone-list.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-10 - java-exceptions-books.md",
+                "file": "Live/2023-05-10 - persone-list.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-10 - java-exceptions-books.md"
+                "file": "Live/2023-05-10 - persone-list.md"
               }
             }
           }
@@ -146,20 +146,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1899614acd1d278f",
+  "active": "8e93b2c747876ef2",
   "lastOpenFiles": [
+    "Live/2023-05-08 - java oop valutazioni.md",
+    "Live/2023-05-09 - Ereditarieta'.md",
     "Live/2023-05-10 - persone-list.md",
+    "Live/2023-05-08 - Calcolatrice.md",
     "Snacks/2023-05-10 - java-exceptions-books.md",
     "Snacks/2023-05-09 - java-inheritance-shop.md",
     "Snacks/2023-05-08 - 2 - java-oop-bank.md",
     "Snacks/2023-05-05  - Snacks.md",
     "Snacks/2023-05-08 - 1 - java-oop-shop.md",
     "Tips&Tricks/Java.md",
-    "Live/2023-05-09 - Ereditarieta'.md",
     "Snacks/2023-05-04 - Java Biglietto Treno.md",
     "Snacks/2023-05-03 - Hello Java.md",
-    "Live/2023-05-08 - java oop valutazioni.md",
-    "Live/2023-05-08 - Calcolatrice.md",
     "Live/2023-05-05 - snacks.md",
     "Live",
     "Tips&Tricks/Git.md",
