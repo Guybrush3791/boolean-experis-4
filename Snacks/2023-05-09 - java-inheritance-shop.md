@@ -1,6 +1,9 @@
 ## Repo
 `java-inheritance-shop`
 
+## Correzione
+[Repo](https://github.com/Guybrush3791/exp-java-4-java-inheritance-shop)
+
 ## Todo
 Creare la classe `Prodotto` che gestisce i *prodotti dello shop*. 
 
