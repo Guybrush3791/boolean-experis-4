@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-05-09 - java-inheritance-shop.md",
+                "file": "Snacks/2023-05-10 - java-exceptions-books.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-09 - java-inheritance-shop.md",
+                "file": "Snacks/2023-05-10 - java-exceptions-books.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-09 - java-inheritance-shop.md",
+                "file": "Snacks/2023-05-10 - java-exceptions-books.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-09 - java-inheritance-shop.md"
+                "file": "Snacks/2023-05-10 - java-exceptions-books.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e93b2c747876ef2",
+  "active": "1899614acd1d278f",
   "lastOpenFiles": [
-    "Snacks/2023-05-08 - 2 - java-oop-bank.md",
-    "Snacks/2023-05-09 - java-inheritance-shop.md",
-    "Snacks/2023-05-10 - java-exceptions-books.md",
     "Live/2023-05-10 - persone-list.md",
+    "Snacks/2023-05-10 - java-exceptions-books.md",
+    "2023-05-10 - java-exceptions-books.md",
+    "Snacks/2023-05-09 - java-inheritance-shop.md",
+    "Snacks/2023-05-08 - 2 - java-oop-bank.md",
     "Live/2023-05-08 - java oop valutazioni.md",
     "Live/2023-05-09 - Ereditarieta'.md",
     "Live/2023-05-08 - Calcolatrice.md",
@@ -177,7 +178,6 @@
     "Extra/Markdown/Mermaid/Git.md",
     "Extra/Markdown/Mermaid/Gantt.md",
     "Extra/Markdown/Mermaid/Flow.md",
-    "Extra/Markdown/Mermaid/Entity Relationship.md",
     "Extra/Markdown/Slides",
     "Extra/Markdown/Mermaid",
     "Extra/Markdown/Attach",
