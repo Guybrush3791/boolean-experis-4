@@ -1,3 +1,7 @@
+## Link
+[Repo](https://github.com/Guybrush3791/exp-java-4-java-employee)
+
+## Todo
 Supponiamo di avere all'interno della nostra azienda 2 figure professionali:
 - `Employee`
 - `Boss`

@@ -1,3 +1,7 @@
+## Link
+[Repo](https://github.com/Guybrush3791/exp-java-4-java-polygon)
+
+## Todo
 Creare un’interfaccia Poligono con due metodi: `calcolaPerimetro()` e `calcolaArea()`
 
 Creare almeno *due classi* concrete che rappresentano dei poligoni e che implementano l’interfaccia. Ogni classe può avere un insieme di propri attributi e anche altri metodi oltre a quelli dell’interfaccia.

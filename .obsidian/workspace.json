@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-05-11 - abstract-animals.md",
+                "file": "Live/2023-05-11 - 2 - java-polygon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-11 - abstract-animals.md",
+                "file": "Live/2023-05-11 - 2 - java-polygon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-11 - abstract-animals.md",
+                "file": "Live/2023-05-11 - 2 - java-polygon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-11 - abstract-animals.md"
+                "file": "Live/2023-05-11 - 2 - java-polygon.md"
               }
             }
           }
@@ -146,14 +146,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1899614acd1d278f",
+  "active": "8e93b2c747876ef2",
   "lastOpenFiles": [
-    "Live/2023-05-11 - 2 - java-polygon.md",
-    "Snacks/2023-05-11 - abstract-animals.md",
     "Live/2023-05-11 - 1 - java-employee.md",
+    "Live/2023-05-10 - persone-list.md",
+    "Snacks/2023-05-11 - abstract-animals.md",
+    "Live/2023-05-11 - 2 - java-polygon.md",
     "Snacks/2023-05-09 - java-inheritance-shop.md",
     "Snacks/2023-05-10 - java-exceptions-books.md",
-    "Live/2023-05-10 - persone-list.md",
     "2023-05-10 - java-exceptions-books.md",
     "Snacks/2023-05-08 - 2 - java-oop-bank.md",
     "Live/2023-05-08 - java oop valutazioni.md",
