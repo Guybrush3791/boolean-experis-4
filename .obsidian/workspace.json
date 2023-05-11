@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-05-10 - java-exceptions-books.md",
+                "file": "Snacks/2023-05-11 - abstract-animals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-10 - java-exceptions-books.md",
+                "file": "Snacks/2023-05-11 - abstract-animals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-10 - java-exceptions-books.md",
+                "file": "Snacks/2023-05-11 - abstract-animals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-10 - java-exceptions-books.md"
+                "file": "Snacks/2023-05-11 - abstract-animals.md"
               }
             }
           }
@@ -148,10 +148,13 @@
   },
   "active": "1899614acd1d278f",
   "lastOpenFiles": [
-    "Live/2023-05-10 - persone-list.md",
-    "Snacks/2023-05-10 - java-exceptions-books.md",
-    "2023-05-10 - java-exceptions-books.md",
+    "Live/2023-05-11 - 2 - java-polygon.md",
+    "Snacks/2023-05-11 - abstract-animals.md",
+    "Live/2023-05-11 - 1 - java-employee.md",
     "Snacks/2023-05-09 - java-inheritance-shop.md",
+    "Snacks/2023-05-10 - java-exceptions-books.md",
+    "Live/2023-05-10 - persone-list.md",
+    "2023-05-10 - java-exceptions-books.md",
     "Snacks/2023-05-08 - 2 - java-oop-bank.md",
     "Live/2023-05-08 - java oop valutazioni.md",
     "Live/2023-05-09 - Ereditarieta'.md",
@@ -175,9 +178,6 @@
     "Extra/Markdown/Mermaid/State diagram.md",
     "Extra/Markdown/Mermaid/Sequence Diagram.md",
     "Extra/Markdown/Mermaid/Pie.md",
-    "Extra/Markdown/Mermaid/Git.md",
-    "Extra/Markdown/Mermaid/Gantt.md",
-    "Extra/Markdown/Mermaid/Flow.md",
     "Extra/Markdown/Slides",
     "Extra/Markdown/Mermaid",
     "Extra/Markdown/Attach",
