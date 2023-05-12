@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Snacks/2023-05-12 - 1 - java-wish-list.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-05-12 - 2 - java-set.md",
+                "file": "Snacks/2023-05-12 - 3 - java-map.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-12 - 2 - java-set.md",
+                "file": "Snacks/2023-05-12 - 3 - java-map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-12 - 2 - java-set.md",
+                "file": "Snacks/2023-05-12 - 3 - java-map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-12 - 2 - java-set.md"
+                "file": "Snacks/2023-05-12 - 3 - java-map.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "d6d6e9184ad3ffcd",
   "lastOpenFiles": [
-    "Snacks/2023-05-12 - 1 - java-wish-list.md",
     "Snacks/2023-05-12 - 2 - java-set.md",
+    "Snacks/2023-05-12 - 1 - java-wish-list.md",
+    "Snacks/2023-05-12 - 3 - java-map.md",
     "Tips&Tricks/Collection.md",
     "Untitled.md",
     "Snacks/2023-05-05  - Snacks.md",
@@ -190,7 +191,6 @@
     "Tips&Tricks",
     "Extra",
     "Extra/Markdown/Slides/Slides demo.md",
-    "Extra/Markdown/Mermaid/User Journey Diagram.md",
     "Extra/Markdown/Slides",
     "Extra/Markdown/Mermaid",
     "Extra/Markdown/Attach",
