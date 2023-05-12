@@ -11,8 +11,12 @@
             "id": "b73ff9db3be731c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Tips&Tricks/Collection.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Tips&Tricks/Collection.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Tips&Tricks/Collection.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Tips&Tricks/Collection.md"
+              }
             }
           }
         ]
@@ -138,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1899614acd1d278f",
+  "active": "b73ff9db3be731c0",
   "lastOpenFiles": [
-    "Untitled.md",
     "Snacks/2023-05-12 - 1 - java-wish-list.md",
+    "Tips&Tricks/Collection.md",
+    "Untitled.md",
     "Snacks/2023-05-05  - Snacks.md",
     "Snacks/2023-05-04 - Java Biglietto Treno.md",
     "Tips&Tricks/Git.md",
@@ -169,7 +178,6 @@
     "Extra/Markdown/Slides/Slides demo.md",
     "Extra/Markdown/Mermaid/User Journey Diagram.md",
     "Extra/Markdown/Mermaid/Timeline.md",
-    "Extra/Markdown/Mermaid/State diagram.md",
     "Extra/Markdown/Slides",
     "Extra/Markdown/Mermaid",
     "Extra/Markdown/Attach",
