@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "b4996272b74680cb",
+        "id": "567b16c54de1e48b",
         "type": "tabs",
         "children": [
           {
-            "id": "b73ff9db3be731c0",
+            "id": "7395d39fdd67871a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips&Tricks/Collection.md",
+                "file": "Snacks/2023-05-12 - 1 - java-wish-list.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d6d6e9184ad3ffcd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Snacks/2023-05-12 - 2 - java-set.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips&Tricks/Collection.md",
+                "file": "Snacks/2023-05-12 - 2 - java-set.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips&Tricks/Collection.md",
+                "file": "Snacks/2023-05-12 - 2 - java-set.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips&Tricks/Collection.md"
+                "file": "Snacks/2023-05-12 - 2 - java-set.md"
               }
             }
           }
@@ -146,9 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b73ff9db3be731c0",
+  "active": "1899614acd1d278f",
   "lastOpenFiles": [
     "Snacks/2023-05-12 - 1 - java-wish-list.md",
+    "Snacks/2023-05-12 - 2 - java-set.md",
     "Tips&Tricks/Collection.md",
     "Untitled.md",
     "Snacks/2023-05-05  - Snacks.md",
@@ -177,7 +191,6 @@
     "Extra",
     "Extra/Markdown/Slides/Slides demo.md",
     "Extra/Markdown/Mermaid/User Journey Diagram.md",
-    "Extra/Markdown/Mermaid/Timeline.md",
     "Extra/Markdown/Slides",
     "Extra/Markdown/Mermaid",
     "Extra/Markdown/Attach",
