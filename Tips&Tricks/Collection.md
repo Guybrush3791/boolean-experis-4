@@ -101,3 +101,15 @@ while(itC.hasNext()) {
 	System.out.println(c + " --> " + v);
 }
 ```
+
+## Ordinamento Set (e chiavi di Map)
+```java
+Set<String> keys = wordCounter.keySet();
+List<String> keyList = new ArrayList<>(keys);
+Collections.sort(keyList);
+for (String k : keyList) {
+	
+	Integer value = wordCounter.get(k);
+	System.out.println(k + " --> " + value);
+}
+```
