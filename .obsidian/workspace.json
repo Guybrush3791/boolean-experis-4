@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "baf7c793a4bb6600",
+        "id": "b4996272b74680cb",
         "type": "tabs",
         "children": [
           {
-            "id": "8e93b2c747876ef2",
+            "id": "b73ff9db3be731c0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2023-05-11 - abstract-animals.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-11 - abstract-animals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-11 - abstract-animals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Snacks/2023-05-11 - abstract-animals.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,10 +138,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8e93b2c747876ef2",
+  "active": "1899614acd1d278f",
   "lastOpenFiles": [
-    "Snacks/2023-05-10 - java-exceptions-books.md",
+    "Untitled.md",
+    "Snacks/2023-05-12 - 1 - java-wish-list.md",
+    "Snacks/2023-05-05  - Snacks.md",
+    "Snacks/2023-05-04 - Java Biglietto Treno.md",
+    "Tips&Tricks/Git.md",
+    "Tips&Tricks/Java.md",
     "Snacks/2023-05-11 - abstract-animals.md",
+    "Snacks/2023-05-10 - java-exceptions-books.md",
     "Snacks/2023-05-09 - java-inheritance-shop.md",
     "Snacks/2023-05-08 - 2 - java-oop-bank.md",
     "Live/2023-05-11 - 2 - java-polygon.md",
@@ -159,14 +157,10 @@
     "Live/2023-05-08 - java oop valutazioni.md",
     "Live/2023-05-09 - Ereditarieta'.md",
     "Live/2023-05-08 - Calcolatrice.md",
-    "Snacks/2023-05-05  - Snacks.md",
     "Snacks/2023-05-08 - 1 - java-oop-shop.md",
-    "Tips&Tricks/Java.md",
-    "Snacks/2023-05-04 - Java Biglietto Treno.md",
     "Snacks/2023-05-03 - Hello Java.md",
     "Live/2023-05-05 - snacks.md",
     "Live",
-    "Tips&Tricks/Git.md",
     "Snacks/Untitled.md",
     "Snacks",
     "Extra/Markdown/Markdown + Obsidian.md",
@@ -176,8 +170,6 @@
     "Extra/Markdown/Mermaid/User Journey Diagram.md",
     "Extra/Markdown/Mermaid/Timeline.md",
     "Extra/Markdown/Mermaid/State diagram.md",
-    "Extra/Markdown/Mermaid/Sequence Diagram.md",
-    "Extra/Markdown/Mermaid/Pie.md",
     "Extra/Markdown/Slides",
     "Extra/Markdown/Mermaid",
     "Extra/Markdown/Attach",
