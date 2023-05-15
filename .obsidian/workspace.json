@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "567b16c54de1e48b",
+        "id": "6f1011f64b001536",
         "type": "tabs",
         "children": [
           {
-            "id": "7395d39fdd67871a",
+            "id": "cdfea084e3b66971",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-05-12 - 1 - java-wish-list.md",
+                "file": "Live/2023-05-15 - long lavanderia.md",
                 "mode": "preview",
                 "source": false
               }
             }
-          },
-          {
-            "id": "d6d6e9184ad3ffcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Snacks/2023-05-12 - 3 - java-map.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-12 - 3 - java-map.md",
+                "file": "Live/2023-05-15 - long lavanderia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-12 - 3 - java-map.md",
+                "file": "Live/2023-05-15 - long lavanderia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-12 - 3 - java-map.md"
+                "file": "Live/2023-05-15 - long lavanderia.md"
               }
             }
           }
@@ -161,10 +148,14 @@
   },
   "active": "1899614acd1d278f",
   "lastOpenFiles": [
-    "Tips&Tricks/Collection.md",
-    "Snacks/2023-05-12 - 3 - java-map.md",
-    "Snacks/2023-05-12 - 2 - java-set.md",
+    "__assets/imgs",
+    "__assets",
+    "__assets/imgs/Pasted image 20230515112608.png",
+    "Live/2023-05-15 - long lavanderia.md",
     "Snacks/2023-05-12 - 1 - java-wish-list.md",
+    "Snacks/2023-05-12 - 3 - java-map.md",
+    "Tips&Tricks/Collection.md",
+    "Snacks/2023-05-12 - 2 - java-set.md",
     "Untitled.md",
     "Snacks/2023-05-05  - Snacks.md",
     "Snacks/2023-05-04 - Java Biglietto Treno.md",
@@ -187,10 +178,8 @@
     "Live",
     "Snacks/Untitled.md",
     "Snacks",
-    "Extra/Markdown/Markdown + Obsidian.md",
     "Tips&Tricks",
     "Extra",
-    "Extra/Markdown/Slides/Slides demo.md",
     "Extra/Markdown/Slides",
     "Extra/Markdown/Mermaid",
     "Extra/Markdown/Attach",
