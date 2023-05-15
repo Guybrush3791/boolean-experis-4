@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Live/2023-05-15 - long lavanderia.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1899614acd1d278f",
+  "active": "cdfea084e3b66971",
   "lastOpenFiles": [
-    "__assets/imgs",
-    "__assets",
     "__assets/imgs/Pasted image 20230515112608.png",
     "Live/2023-05-15 - long lavanderia.md",
+    "__assets/imgs",
+    "__assets",
     "Snacks/2023-05-12 - 1 - java-wish-list.md",
     "Snacks/2023-05-12 - 3 - java-map.md",
     "Tips&Tricks/Collection.md",

@@ -1,19 +1,23 @@
 # Obbiettivo
 Realizzare un programma console in Java per la verifica remota del funzionamento delle lavatrici e delle asciugatrici presenti in una lavanderia self-service.
 
+# Soluzione
+[Link](https://github.com/Guybrush3791/exp-java-4-lavanderia)
+
+# Todo
 ## Descrizione generale
 La lavanderia possiede 3 lavatrici e 2 asciugatrici.
-Le lavatrici hanno due serbatoi integrati, uno di detersivo e uno di ammorbidente.
-Il serbatoio di detersivo ha una capacità di 1000ml mentre quello dell’ammorbidente di 500ml.
+~~Le lavatrici hanno due serbatoi integrati, uno di detersivo e uno di ammorbidente.
+Il serbatoio di detersivo ha una capacità di 1000ml mentre quello dell’ammorbidente di 500ml.~~
 
-### Programmi delle lavatrici
+### ~~Programmi delle lavatrici~~
 | Numero | Nome | Durata (minuti) | Gettoni | Consumo ammorbidente (ml) | Consumo detersivo (ml) |
 | --- | --- | --- | --- | --- | --- |
 | 1 | Rinfrescante | 20 | 5 | 20 | 25 |
 | 2 | Rinnovante | 40 | 10 | 40 | 50 |
 | 3 | Sgrassante | 60 | 15 | 60 | 100 |
 
-### Programmi delle asciugatrici
+### ~~Programmi delle asciugatrici~~
 | Numero | Nome | Durata (minuti) | Gettoni |
 | --- | --- | --- | --- |
 | 1 | Rapido | 20 | 2 |
@@ -33,7 +37,7 @@ L’utente può agire tramite il programma per effettuare le seguenti verifiche:
 Se una di queste operazioni non è logicamente possibile, il programma dovrà mandare un messaggio all’utente per evidenziare la problematica.
 
 ## Linee guida e vincoli
-Per la realizzazione si implementi il codice utilizzando il paradigma ad oggetti e identificando, se necessario, classi astratte ed eredità. Non è necessario l’utilizzo di interfacce.
+Per la realizzazione si implementi il codice utilizzando il paradigma ad oggetti e identificando, se necessario, classi astratte ed eredità. *Non è necessario l’utilizzo di interfacce.*
 
 Per l’interazione con l’utente si implementi il seguente comportamento nel `Program.java`:
 
