@@ -1,6 +1,9 @@
 ## Repo
 `java-gestore-eventi`
 
+## Link
+[Repo](https://github.com/Guybrush3791/exp-java-4-java-gestore-eventi)
+
 ## Todo
 Stiamo lavorando a un programma che deve gestire eventi (ad esempio concerti, conferenze, spettacoli,...).
 
