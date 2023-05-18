@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-05-17 - java-gestore-eventi.md",
+                "file": "Tips&Tricks/MacOS - Homebrew.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-17 - java-gestore-eventi.md",
+                "file": "Tips&Tricks/MacOS - Homebrew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-17 - java-gestore-eventi.md",
+                "file": "Tips&Tricks/MacOS - Homebrew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-17 - java-gestore-eventi.md"
+                "file": "Tips&Tricks/MacOS - Homebrew.md"
               }
             }
           }
@@ -148,11 +148,12 @@
   },
   "active": "cdfea084e3b66971",
   "lastOpenFiles": [
+    "Snacks/2023-05-17 - java-gestore-eventi.md",
+    "Tips&Tricks/MacOS - Homebrew.md",
     "Snacks/2023-05-12 - 3 - java-map.md",
     "Snacks/2023-05-12 - 2 - java-set.md",
     "Snacks/2023-05-11 - abstract-animals.md",
     "Snacks/2023-05-12 - 1 - java-wish-list.md",
-    "Snacks/2023-05-17 - java-gestore-eventi.md",
     "Live/2023-05-15 - long lavanderia.md",
     "__assets/imgs/Pasted image 20230515112608.png",
     "__assets/imgs",
@@ -177,7 +178,6 @@
     "Snacks/2023-05-03 - Hello Java.md",
     "Live/2023-05-05 - snacks.md",
     "Live",
-    "Snacks/Untitled.md",
     "Snacks",
     "Tips&Tricks",
     "Extra",
