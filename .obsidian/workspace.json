@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips&Tricks/MacOS - Homebrew.md",
+                "file": "Tips&Tricks/MacOS - MySQL.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips&Tricks/MacOS - Homebrew.md",
+                "file": "Tips&Tricks/MacOS - MySQL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips&Tricks/MacOS - Homebrew.md",
+                "file": "Tips&Tricks/MacOS - MySQL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips&Tricks/MacOS - Homebrew.md"
+                "file": "Tips&Tricks/MacOS - MySQL.md"
               }
             }
           }
@@ -149,7 +149,7 @@
   "active": "cdfea084e3b66971",
   "lastOpenFiles": [
     "Snacks/2023-05-17 - java-gestore-eventi.md",
-    "Tips&Tricks/MacOS - Homebrew.md",
+    "Tips&Tricks/MacOS - MySQL.md",
     "Snacks/2023-05-12 - 3 - java-map.md",
     "Snacks/2023-05-12 - 2 - java-set.md",
     "Snacks/2023-05-11 - abstract-animals.md",
