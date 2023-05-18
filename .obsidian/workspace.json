@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips&Tricks/MacOS - MySQL.md",
+                "file": "Live/2023-05-18 - db-airport.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips&Tricks/MacOS - MySQL.md",
+                "file": "Live/2023-05-18 - db-airport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips&Tricks/MacOS - MySQL.md",
+                "file": "Live/2023-05-18 - db-airport.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips&Tricks/MacOS - MySQL.md"
+                "file": "Live/2023-05-18 - db-airport.md"
               }
             }
           }
@@ -146,15 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "cdfea084e3b66971",
+  "active": "1899614acd1d278f",
   "lastOpenFiles": [
-    "Snacks/2023-05-17 - java-gestore-eventi.md",
+    "__assets/database",
+    "__assets/database/Diagramma senza titolo.drawio.svg",
+    "Live/2023-05-18 - db-airport.md",
+    "Live/2023-05-11 - 1 - java-employee.md",
+    "Live/2023-05-15 - long lavanderia.md",
     "Tips&Tricks/MacOS - MySQL.md",
+    "Snacks/2023-05-17 - java-gestore-eventi.md",
     "Snacks/2023-05-12 - 3 - java-map.md",
     "Snacks/2023-05-12 - 2 - java-set.md",
     "Snacks/2023-05-11 - abstract-animals.md",
     "Snacks/2023-05-12 - 1 - java-wish-list.md",
-    "Live/2023-05-15 - long lavanderia.md",
     "__assets/imgs/Pasted image 20230515112608.png",
     "__assets/imgs",
     "__assets",
@@ -168,15 +172,12 @@
     "Snacks/2023-05-09 - java-inheritance-shop.md",
     "Snacks/2023-05-08 - 2 - java-oop-bank.md",
     "Live/2023-05-11 - 2 - java-polygon.md",
-    "Live/2023-05-11 - 1 - java-employee.md",
     "Live/2023-05-10 - persone-list.md",
     "2023-05-10 - java-exceptions-books.md",
     "Live/2023-05-08 - java oop valutazioni.md",
     "Live/2023-05-09 - Ereditarieta'.md",
     "Live/2023-05-08 - Calcolatrice.md",
     "Snacks/2023-05-08 - 1 - java-oop-shop.md",
-    "Snacks/2023-05-03 - Hello Java.md",
-    "Live/2023-05-05 - snacks.md",
     "Live",
     "Snacks",
     "Tips&Tricks",
