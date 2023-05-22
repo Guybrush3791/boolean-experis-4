@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Snacks/2023-05-19 - db-videogames-query.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,12 +146,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1899614acd1d278f",
+  "active": "4cae5dfe4fba4d30",
   "lastOpenFiles": [
-    "EX - Query Db videogames.txt",
     "Snacks/2023-05-17 - java-gestore-eventi.md",
-    "Live/2023-05-19 - db-aeroporto.md",
     "Snacks/2023-05-19 - db-videogames-query.md",
+    "EX - Query Db videogames.txt",
+    "Live/2023-05-19 - db-aeroporto.md",
     "__assets/dump/mysql-db_videogames.sql",
     "__assets/dump/mysql-db_aeroporto.sql",
     "__assets/dump",
@@ -185,7 +185,6 @@
     "Live/2023-05-08 - java oop valutazioni.md",
     "Live/2023-05-09 - Ereditarieta'.md",
     "Live",
-    "Snacks",
-    "Tips&Tricks"
+    "Snacks"
   ]
 }
