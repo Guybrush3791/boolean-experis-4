@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ab5653e5fc709630",
+        "id": "f75f837383a5d720",
         "type": "tabs",
         "children": [
           {
-            "id": "ab9c1af6710a41d6",
+            "id": "8788d4eea5275dc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-05-22 - db-nations.md",
-                "mode": "source",
+                "file": "Snacks/2023-05-23 - java-calculator-tester.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-22 - db-nations.md",
+                "file": "Snacks/2023-05-23 - java-calculator-tester.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-22 - db-nations.md",
+                "file": "Snacks/2023-05-23 - java-calculator-tester.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-22 - db-nations.md"
+                "file": "Snacks/2023-05-23 - java-calculator-tester.md"
               }
             }
           }
@@ -146,10 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ab9c1af6710a41d6",
+  "active": "8788d4eea5275dc5",
   "lastOpenFiles": [
-    "Tips&Tricks/Java Maven + JDBC.md",
+    "Tips&Tricks/JUnit Jupiter.md",
+    "Snacks/2023-05-23 - java-calculator-tester.md",
+    "__assets/imgs/Pasted image 20230523122524.png",
+    "__assets/imgs/Pasted image 20230523123525.png",
+    "Tips&Tricks/Collection.md",
     "Snacks/2023-05-22 - db-nations.md",
+    "Tips&Tricks/Java Maven + JDBC.md",
     "Tips&Tricks/MacOS - MySQL.md",
     "__assets/imgs/Pasted image 20230522124951.png",
     "__assets/imgs/Pasted image 20230522125504.png",
@@ -179,7 +184,6 @@
     "__assets/imgs/Pasted image 20230515112608.png",
     "__assets/imgs",
     "__assets",
-    "Tips&Tricks/Collection.md",
     "Snacks/2023-05-05  - Snacks.md",
     "Snacks/2023-05-04 - Java Biglietto Treno.md",
     "Tips&Tricks/Git.md",
@@ -188,8 +192,6 @@
     "Snacks/2023-05-09 - java-inheritance-shop.md",
     "Snacks/2023-05-08 - 2 - java-oop-bank.md",
     "Live/2023-05-11 - 2 - java-polygon.md",
-    "Live/2023-05-10 - persone-list.md",
-    "2023-05-10 - java-exceptions-books.md",
-    "Live/2023-05-08 - java oop valutazioni.md"
+    "Live/2023-05-10 - persone-list.md"
   ]
 }
