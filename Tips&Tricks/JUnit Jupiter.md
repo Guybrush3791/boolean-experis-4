@@ -70,5 +70,5 @@ Es:
 ```
 
 Per lanciare la fase di test, tasto dx sul progetto -> Run as -> Maven test
-Comparira a terminale una serie di scritte indicandi l'esito dei test e se il progetto e' stato correttamente buildato oppure no:
+Comparira' a terminale una serie di scritte indicanti l'esito dei test e se il progetto e' stato correttamente buildato oppure no:
 ![[Pasted image 20230523123525.png]]
