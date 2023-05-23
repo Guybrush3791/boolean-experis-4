@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-05-23 - java-calculator-tester.md",
+                "file": "Personal/myNote.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-23 - java-calculator-tester.md",
+                "file": "Personal/myNote.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-23 - java-calculator-tester.md",
+                "file": "Personal/myNote.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-23 - java-calculator-tester.md"
+                "file": "Personal/myNote.md"
               }
             }
           }
@@ -146,12 +146,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1899614acd1d278f",
+  "active": "2483e01feac6a5b0",
   "lastOpenFiles": [
+    "Snacks/2023-05-23 - java-calculator-tester.md",
+    "Personal/myNote.md",
     "Empty File",
     "Personal",
     "Snacks/2023-05-22 - db-nations.md",
-    "Snacks/2023-05-23 - java-calculator-tester.md",
     "Tips&Tricks/JUnit Jupiter.md",
     "Tips&Tricks/MacOS - MySQL.md",
     "Extra/Markdown/Markdown + Obsidian.md",
@@ -191,7 +192,6 @@
     "Snacks/2023-05-12 - 1 - java-wish-list.md",
     "__assets/imgs/Pasted image 20230515112608.png",
     "__assets/imgs",
-    "__assets",
     "Snacks/2023-05-05  - Snacks.md",
     "Snacks/2023-05-04 - Java Biglietto Treno.md"
   ]
