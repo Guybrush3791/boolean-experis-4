@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Snacks/2023-05-22 - db-nations.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               }
             }
@@ -146,14 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1899614acd1d278f",
+  "active": "ab9c1af6710a41d6",
   "lastOpenFiles": [
+    "Tips&Tricks/Java Maven + JDBC.md",
+    "Snacks/2023-05-22 - db-nations.md",
+    "Tips&Tricks/MacOS - MySQL.md",
     "__assets/imgs/Pasted image 20230522124951.png",
     "__assets/imgs/Pasted image 20230522125504.png",
-    "Snacks/2023-05-22 - db-nations.md",
     "__assets/dump/dump_nations.sql",
     "__assets/imgs/Pasted image 20230522124721.png",
-    "Tips&Tricks/Java Maven + JDBC.md",
     "__assets/imgs/Pasted image 20230522124045.png",
     "__assets/imgs/Pasted image 20230522123937.png",
     "Live/2023-05-19 - db-aeroporto.md",
@@ -171,7 +172,6 @@
     "__assets/database/Diagramma senza titolo.drawio.svg",
     "Live/2023-05-11 - 1 - java-employee.md",
     "Live/2023-05-15 - long lavanderia.md",
-    "Tips&Tricks/MacOS - MySQL.md",
     "Snacks/2023-05-12 - 3 - java-map.md",
     "Snacks/2023-05-12 - 2 - java-set.md",
     "Snacks/2023-05-11 - abstract-animals.md",
