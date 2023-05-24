@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "1e2056a47ba7a743",
+        "id": "95fa48fc1aac3738",
         "type": "tabs",
         "children": [
           {
-            "id": "2483e01feac6a5b0",
+            "id": "715336e5aecad37a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Personal/myNote.md",
-                "mode": "source",
+                "file": "Snacks/2023-05-24 - best-of-the-year.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Personal/myNote.md",
+                "file": "Snacks/2023-05-24 - best-of-the-year.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Personal/myNote.md",
+                "file": "Snacks/2023-05-24 - best-of-the-year.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Personal/myNote.md"
+                "file": "Snacks/2023-05-24 - best-of-the-year.md"
               }
             }
           }
@@ -146,14 +146,19 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2483e01feac6a5b0",
+  "active": "715336e5aecad37a",
   "lastOpenFiles": [
+    "__assets/imgs/Pasted image 20230524143144.png",
+    "Tips&Tricks/Spring boot + Thymeleaf init.md",
+    "__assets/imgs/Pasted image 20230524143304.png",
+    "Snacks/2023-05-24 - best-of-the-year.md",
+    "Tips&Tricks/JUnit Jupiter.md",
+    "Untitled.md",
     "Snacks/2023-05-23 - java-calculator-tester.md",
     "Personal/myNote.md",
     "Empty File",
     "Personal",
     "Snacks/2023-05-22 - db-nations.md",
-    "Tips&Tricks/JUnit Jupiter.md",
     "Tips&Tricks/MacOS - MySQL.md",
     "Extra/Markdown/Markdown + Obsidian.md",
     "Live/2023-05-11 - 1 - java-employee.md",
@@ -165,7 +170,6 @@
     "Live/2023-05-08 - java oop valutazioni.md",
     "Live/2023-05-08 - Calcolatrice.md",
     "Live/2023-05-05 - snacks.md",
-    "Untitled.md",
     "Snacks/2023-05-19 - db-videogames-query.md",
     "__assets/imgs/Pasted image 20230523122524.png",
     "__assets/imgs/Pasted image 20230523123525.png",
@@ -185,14 +189,9 @@
     "mysql-db_aeroporto.sql",
     "__assets/database/DB Aiport.png",
     "__assets/database",
-    "__assets/database/Diagramma senza titolo.drawio.svg",
     "Snacks/2023-05-12 - 3 - java-map.md",
     "Snacks/2023-05-12 - 2 - java-set.md",
     "Snacks/2023-05-11 - abstract-animals.md",
-    "Snacks/2023-05-12 - 1 - java-wish-list.md",
-    "__assets/imgs/Pasted image 20230515112608.png",
-    "__assets/imgs",
-    "Snacks/2023-05-05  - Snacks.md",
-    "Snacks/2023-05-04 - Java Biglietto Treno.md"
+    "__assets/imgs"
   ]
 }
