@@ -148,10 +148,12 @@
   },
   "active": "715336e5aecad37a",
   "lastOpenFiles": [
-    "__assets/imgs/Pasted image 20230524143144.png",
+    "__assets/imgs/design-best-2021.drawio.png",
+    "Tips&Tricks/Thymeleaf.md",
     "Tips&Tricks/Spring boot + Thymeleaf init.md",
-    "__assets/imgs/Pasted image 20230524143304.png",
     "Snacks/2023-05-24 - best-of-the-year.md",
+    "__assets/imgs/Pasted image 20230524143144.png",
+    "__assets/imgs/Pasted image 20230524143304.png",
     "Tips&Tricks/JUnit Jupiter.md",
     "Untitled.md",
     "Snacks/2023-05-23 - java-calculator-tester.md",
@@ -191,7 +193,6 @@
     "__assets/database",
     "Snacks/2023-05-12 - 3 - java-map.md",
     "Snacks/2023-05-12 - 2 - java-set.md",
-    "Snacks/2023-05-11 - abstract-animals.md",
     "__assets/imgs"
   ]
 }
