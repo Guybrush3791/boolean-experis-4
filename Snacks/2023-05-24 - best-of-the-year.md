@@ -2,6 +2,9 @@
 ## Repo
 `best-of-the-year`
 
+## Link
+[Correzione Day 1](https://github.com/Guybrush3791/exp-java-4-best-of-the-year)
+
 ## Todo
 ### Day 1
 #### Step 1

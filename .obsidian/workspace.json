@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-05-24 - best-of-the-year.md",
+                "file": "2023-05-25 - live thymeleaf.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-24 - best-of-the-year.md",
+                "file": "2023-05-25 - live thymeleaf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-24 - best-of-the-year.md",
+                "file": "2023-05-25 - live thymeleaf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-24 - best-of-the-year.md"
+                "file": "2023-05-25 - live thymeleaf.md"
               }
             }
           }
@@ -148,10 +148,15 @@
   },
   "active": "715336e5aecad37a",
   "lastOpenFiles": [
+    "Live/2023-05-11 - 2 - java-polygon.md",
+    "2023-05-25 - live thymeleaf.md",
+    "Live/2023-05-11 - 1 - java-employee.md",
+    "Live/2023-05-19 - db-aeroporto.md",
+    "Snacks/2023-05-24 - best-of-the-year.md",
+    "Snacks/2023-05-25 - best-of-the-year.md",
     "__assets/imgs/design-best-2021.drawio.png",
     "Tips&Tricks/Thymeleaf.md",
     "Tips&Tricks/Spring boot + Thymeleaf init.md",
-    "Snacks/2023-05-24 - best-of-the-year.md",
     "__assets/imgs/Pasted image 20230524143144.png",
     "__assets/imgs/Pasted image 20230524143304.png",
     "Tips&Tricks/JUnit Jupiter.md",
@@ -163,11 +168,8 @@
     "Snacks/2023-05-22 - db-nations.md",
     "Tips&Tricks/MacOS - MySQL.md",
     "Extra/Markdown/Markdown + Obsidian.md",
-    "Live/2023-05-11 - 1 - java-employee.md",
-    "Live/2023-05-11 - 2 - java-polygon.md",
     "Live/2023-05-15 - long lavanderia.md",
     "Live/2023-05-18 - db-airport.md",
-    "Live/2023-05-19 - db-aeroporto.md",
     "Live/2023-05-09 - Ereditarieta'.md",
     "Live/2023-05-08 - java oop valutazioni.md",
     "Live/2023-05-08 - Calcolatrice.md",
@@ -189,10 +191,8 @@
     "__assets/dump/mysql-db_aeroporto.sql",
     "__assets/dump",
     "mysql-db_aeroporto.sql",
-    "__assets/database/DB Aiport.png",
     "__assets/database",
     "Snacks/2023-05-12 - 3 - java-map.md",
-    "Snacks/2023-05-12 - 2 - java-set.md",
     "__assets/imgs"
   ]
 }
