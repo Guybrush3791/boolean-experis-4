@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tips&Tricks/Spring CRUD.md",
-                "mode": "preview",
+                "file": "Snacks/2023-05-26 - spring-la-mia-pizzeria-crud.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tips&Tricks/Spring CRUD.md",
+                "file": "Snacks/2023-05-26 - spring-la-mia-pizzeria-crud.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tips&Tricks/Spring CRUD.md",
+                "file": "Snacks/2023-05-26 - spring-la-mia-pizzeria-crud.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tips&Tricks/Spring CRUD.md"
+                "file": "Snacks/2023-05-26 - spring-la-mia-pizzeria-crud.md"
               }
             }
           }
@@ -148,12 +148,13 @@
   },
   "active": "1899614acd1d278f",
   "lastOpenFiles": [
+    "Tips&Tricks/Spring CRUD.md",
+    "Snacks/2023-05-26 - spring-la-mia-pizzeria-crud.md",
     "Tips&Tricks/Spring boot + Thymeleaf init.md",
     "Tips&Tricks/JUnit Jupiter.md",
     "Tips&Tricks/Java Maven + JDBC.md",
     "Tips&Tricks/Git.md",
     "Tips&Tricks/Java.md",
-    "Tips&Tricks/Spring CRUD.md",
     "__assets/imgs/Pasted image 20230526120844.png",
     "Live/2023-05-25 - live thymeleaf.md",
     "Snacks/2023-05-24 - best-of-the-year.md",
@@ -179,7 +180,6 @@
     "Live/2023-05-08 - java oop valutazioni.md",
     "Live/2023-05-08 - Calcolatrice.md",
     "Live/2023-05-05 - snacks.md",
-    "Snacks/2023-05-19 - db-videogames-query.md",
     "__assets/imgs/Pasted image 20230523122524.png",
     "__assets/imgs/Pasted image 20230523123525.png",
     "__assets/imgs/Pasted image 20230522124951.png",
