@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2023-05-25 - live thymeleaf.md",
+                "file": "Tips&Tricks/Spring CRUD.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2023-05-25 - live thymeleaf.md",
+                "file": "Tips&Tricks/Spring CRUD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2023-05-25 - live thymeleaf.md",
+                "file": "Tips&Tricks/Spring CRUD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2023-05-25 - live thymeleaf.md"
+                "file": "Tips&Tricks/Spring CRUD.md"
               }
             }
           }
@@ -146,20 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "715336e5aecad37a",
+  "active": "1899614acd1d278f",
   "lastOpenFiles": [
-    "Live/2023-05-11 - 2 - java-polygon.md",
-    "2023-05-25 - live thymeleaf.md",
-    "Live/2023-05-11 - 1 - java-employee.md",
-    "Live/2023-05-19 - db-aeroporto.md",
+    "Tips&Tricks/Spring boot + Thymeleaf init.md",
+    "Tips&Tricks/JUnit Jupiter.md",
+    "Tips&Tricks/Java Maven + JDBC.md",
+    "Tips&Tricks/Git.md",
+    "Tips&Tricks/Java.md",
+    "Tips&Tricks/Spring CRUD.md",
+    "__assets/imgs/Pasted image 20230526120844.png",
+    "Live/2023-05-25 - live thymeleaf.md",
     "Snacks/2023-05-24 - best-of-the-year.md",
+    "Live/2023-05-19 - db-aeroporto.md",
+    "Live/2023-05-11 - 2 - java-polygon.md",
+    "Live/2023-05-11 - 1 - java-employee.md",
     "Snacks/2023-05-25 - best-of-the-year.md",
     "__assets/imgs/design-best-2021.drawio.png",
     "Tips&Tricks/Thymeleaf.md",
-    "Tips&Tricks/Spring boot + Thymeleaf init.md",
     "__assets/imgs/Pasted image 20230524143144.png",
     "__assets/imgs/Pasted image 20230524143304.png",
-    "Tips&Tricks/JUnit Jupiter.md",
     "Untitled.md",
     "Snacks/2023-05-23 - java-calculator-tester.md",
     "Personal/myNote.md",
@@ -177,22 +182,17 @@
     "Snacks/2023-05-19 - db-videogames-query.md",
     "__assets/imgs/Pasted image 20230523122524.png",
     "__assets/imgs/Pasted image 20230523123525.png",
-    "Tips&Tricks/Collection.md",
-    "Tips&Tricks/Java Maven + JDBC.md",
     "__assets/imgs/Pasted image 20230522124951.png",
     "__assets/imgs/Pasted image 20230522125504.png",
     "__assets/dump/dump_nations.sql",
     "__assets/imgs/Pasted image 20230522124721.png",
     "__assets/imgs/Pasted image 20230522124045.png",
-    "__assets/imgs/Pasted image 20230522123937.png",
-    "Snacks/2023-05-17 - java-gestore-eventi.md",
     "EX - Query Db videogames.txt",
     "__assets/dump/mysql-db_videogames.sql",
     "__assets/dump/mysql-db_aeroporto.sql",
     "__assets/dump",
     "mysql-db_aeroporto.sql",
     "__assets/database",
-    "Snacks/2023-05-12 - 3 - java-map.md",
     "__assets/imgs"
   ]
 }
