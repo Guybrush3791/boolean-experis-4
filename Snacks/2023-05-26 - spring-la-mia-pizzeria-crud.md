@@ -1,6 +1,9 @@
 ## Repo
 `spring-la-mia-pizzeria-crud`
 
+## Live
+Vedi [[2023-05-29 - crud books]]
+
 ## Todo
 ### Day 1
 Abbiamo bisogno di creare la prima pagina (`index`) dove mostriamo *tutte le pizze* che prepariamo.
@@ -16,6 +19,9 @@ Creaimo l'`entity`, `repository` e `service` per gestire le CRUD delle pizze.
 Implementiamo  quindi il controller con il metodo `index` che restituisce una `view` per mostrare l’*elenco delle pizze caricate dal database* (possiamo creare una tabella con `bootstrap` o una qualche grafica a nostro piacimento).
 
 L’elenco **potrebbe essere vuoto**: in quel caso dobbiamo *mostrare un messaggio* che indichi all’utente che *non ci sono pizze* presenti nella nostra applicazione.
+
+#### Correzione
+[Repo](https://github.com/Guybrush3791/exp-java-4-spring-la-mia-pizzeria-crud)
 
 ### Day 2
 Lo scopo di oggi è quello di mostrare i dettagli di una singola pizza.
