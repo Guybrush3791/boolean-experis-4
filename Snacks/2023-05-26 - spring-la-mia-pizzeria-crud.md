@@ -55,4 +55,4 @@ Dobbiamo realizzare :
 #### Bonus
 Aggiungere le validazioni e la stampa di eventuali errori in pagina per quanto riguarda la *creazione*/*aggiornamento* delle varie `pizze`.
 
-Vedi [Repo](https://github.com/Guybrush3791/exp-java-4-crud-live), in particolare la `create` nel `controller`, l'`entity` *Book* e l'`html` *book-create.html*.
+Vedi [Repo](https://github.com/Guybrush3791/exp-java-4-crud-live), in particolare il `pom.xml` con la relativa dipendenza sulle *validazioni*, la `create` nel `controller`, l'`entity` *Book* e l'`html` *book-create.html*.
