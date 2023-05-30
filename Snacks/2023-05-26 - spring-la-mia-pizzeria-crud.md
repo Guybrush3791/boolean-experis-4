@@ -51,3 +51,8 @@ Aggiungiamo inoltre una rotta che riceva il contenuto del `form` per poi mandarl
 Dobbiamo realizzare :
 - pagina di *modifica di una pizza*
 - *cancellazione di una pizza* cliccando un pulsante presente nella grafica di ogni singolo prodotto mostrato nella lista in `homepage`
+
+#### Bonus
+Aggiungere le validazioni e la stampa di eventuali errori in pagina per quanto riguarda la *creazione*/*aggiornamento* delle varie `pizze`.
+
+Vedi [Repo](https://github.com/Guybrush3791/exp-java-4-crud-live), in particolare la `create` nel `controller`, l'`entity` *Book* e l'`html` *book-create.html*.
