@@ -32,7 +32,10 @@ La `view` a quel punto li mostrerà all’utente con la grafica che preferiamo.
 
 Nella pagina con l’elenco delle pizze aggiungiamo un *campo di testo* che se compilato filtrerà le pizze (lato server) aventi come *titolo* quello inserito dall’utente.
 
-#### Bonus - Day 3
+#### Correzione
+[Repo](https://github.com/Guybrush3791/exp-java-4-spring-la-mia-pizzeria-crud)
+
+### Day 3
 Abbiamo la lista delle pizze, abbiamo i dettagli delle pizze...perchè non realizzare la pagina per la *creazione di una nuova pizza*?
 
 Aggiungiamo quindi tutto il codice necessario per *mostrare il form* per la *creazione di una nuova pizza* e per il salvataggio dei dati in tabella.
@@ -40,3 +43,11 @@ Aggiungiamo quindi tutto il codice necessario per *mostrare il form* per la *cre
 Nella `index` creiamo il bottone “*Crea nuova pizza*”.
 
 Aggiungiamo inoltre una rotta che riceva il contenuto del `form` per poi mandarlo *a persistenza* nel *db* (NO VALIDAZIONI).
+
+#### Correzione
+[Repo](https://github.com/Guybrush3791/exp-java-4-spring-la-mia-pizzeria-crud)
+
+### Day 4
+Dobbiamo realizzare :
+- pagina di *modifica di una pizza*
+- *cancellazione di una pizza* cliccando un pulsante presente nella grafica di ogni singolo prodotto mostrato nella lista in `homepage`
