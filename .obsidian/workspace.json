@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-05-26 - spring-la-mia-pizzeria-crud.md",
-                "mode": "source",
+                "file": "Snacks/2023-05-31 - spring-la-mia-pizzeria-relazioni.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-05-26 - spring-la-mia-pizzeria-crud.md",
+                "file": "Snacks/2023-05-31 - spring-la-mia-pizzeria-relazioni.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-05-26 - spring-la-mia-pizzeria-crud.md",
+                "file": "Snacks/2023-05-31 - spring-la-mia-pizzeria-relazioni.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-05-26 - spring-la-mia-pizzeria-crud.md"
+                "file": "Snacks/2023-05-31 - spring-la-mia-pizzeria-relazioni.md"
               }
             }
           }
@@ -148,7 +148,9 @@
   },
   "active": "715336e5aecad37a",
   "lastOpenFiles": [
+    "Live/2023-05-31 - crud books relazioni.md",
     "Live/2023-05-29 - crud books.md",
+    "Snacks/2023-05-31 - spring-la-mia-pizzeria-relazioni.md",
     "Snacks/2023-05-26 - spring-la-mia-pizzeria-crud.md",
     "Snacks/2023-05-29 - spring-la-mia-pizzeria-crud - 2.md",
     "Snacks/2023-05-30 spring-la-mia-pizzeria-crud - 3.md",
@@ -178,8 +180,6 @@
     "Personal",
     "Snacks/2023-05-22 - db-nations.md",
     "Tips&Tricks/MacOS - MySQL.md",
-    "Extra/Markdown/Markdown + Obsidian.md",
-    "Live/2023-05-09 - Ereditarieta'.md",
     "__assets/imgs/Pasted image 20230523122524.png",
     "__assets/imgs/Pasted image 20230523123525.png",
     "__assets/imgs/Pasted image 20230522124951.png",
