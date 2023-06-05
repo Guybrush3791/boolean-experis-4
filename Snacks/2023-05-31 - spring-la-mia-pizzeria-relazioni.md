@@ -29,6 +29,9 @@ Accanto ad ogni offerta speciale è previsto *un bottone* che mi porterà a una 
 - stampare per ogni offerta di ogni pizza, il *prezzo scontato*
 - aggiungere le validazioni anche alla nuova entita' *offerta speciale*
 
+#### Correzione
+[Repo](https://github.com/Guybrush3791/exp-java-4-spring-la-mia-pizzeria-crud)
+
 ### Day 2
 Nuovo pezzettino per la nostra pizzeria: *gli ingredienti*!
 
