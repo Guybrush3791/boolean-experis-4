@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "f8423cb6be013b50",
+        "id": "2a2ac7e9515bf048",
         "type": "tabs",
         "children": [
           {
-            "id": "70c76491bb25eace",
+            "id": "491b70ce4f9d5532",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live/2023-06-05 - crud books relazioni.md",
-                "mode": "source",
+                "file": "Live/2023-06-06 - spring-security-live.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live/2023-06-05 - crud books relazioni.md",
+                "file": "Live/2023-06-06 - spring-security-live.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live/2023-06-05 - crud books relazioni.md",
+                "file": "Live/2023-06-06 - spring-security-live.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live/2023-06-05 - crud books relazioni.md"
+                "file": "Live/2023-06-06 - spring-security-live.md"
               }
             }
           }
@@ -146,15 +146,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "70c76491bb25eace",
+  "active": "491b70ce4f9d5532",
   "lastOpenFiles": [
-    "Live/2023-05-31 - crud books relazioni.md",
-    "Live/2023-06-05 - crud books relazioni.md",
     "Snacks/2023-05-31 - spring-la-mia-pizzeria-relazioni.md",
+    "Live/2023-06-06 - spring-security-live.md",
     "Snacks/2023-06-05 - spring-la-mia-pizzeria-relazioni.md",
+    "Snacks/2023-05-30 spring-la-mia-pizzeria-crud - 3.md",
+    "Live/2023-06-05 - crud books relazioni.md",
+    "Live/2023-05-31 - crud books relazioni.md",
     "Snacks/2023-05-26 - spring-la-mia-pizzeria-crud.md",
     "Snacks/2023-05-29 - spring-la-mia-pizzeria-crud - 2.md",
-    "Snacks/2023-05-30 spring-la-mia-pizzeria-crud - 3.md",
     "Live/2023-06-01 - crud recap (con rel 1aN).md",
     "Tips&Tricks/Spring CRUD.md",
     "Tips&Tricks/Spring boot + Thymeleaf init.md",
@@ -174,7 +175,6 @@
     "Live/2023-05-19 - db-aeroporto.md",
     "Tips&Tricks/Thymeleaf.md",
     "__assets/imgs/Pasted image 20230526120844.png",
-    "Live/2023-05-11 - 1 - java-employee.md",
     "__assets/imgs/design-best-2021.drawio.png",
     "__assets/imgs/Pasted image 20230524143144.png",
     "__assets/imgs/Pasted image 20230524143304.png",
