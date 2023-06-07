@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-06-06 - spring-la-mia-pizzeria-security.md",
+                "file": "Snacks/2023-06-07 - spring-la-mia-pizzeria-webapi.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-06-06 - spring-la-mia-pizzeria-security.md",
+                "file": "Snacks/2023-06-07 - spring-la-mia-pizzeria-webapi.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-06-06 - spring-la-mia-pizzeria-security.md",
+                "file": "Snacks/2023-06-07 - spring-la-mia-pizzeria-webapi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-06-06 - spring-la-mia-pizzeria-security.md"
+                "file": "Snacks/2023-06-07 - spring-la-mia-pizzeria-webapi.md"
               }
             }
           }
@@ -146,15 +146,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1899614acd1d278f",
+  "active": "491b70ce4f9d5532",
   "lastOpenFiles": [
-    "Snacks/2023-05-31 - spring-la-mia-pizzeria-relazioni.md",
-    "Snacks/2023-05-26 - spring-la-mia-pizzeria-crud.md",
-    "Snacks/2023-05-29 - spring-la-mia-pizzeria-crud - 2.md",
-    "Snacks/2023-05-30 spring-la-mia-pizzeria-crud - 3.md",
+    "Live/2023-06-07 - rest api live.md",
+    "Snacks/2023-06-07 - spring-la-mia-pizzeria-webapi.md",
     "Snacks/2023-06-06 - spring-la-mia-pizzeria-security.md",
-    "Live/2023-06-06 - spring-security-live.md",
+    "Live/2023-06-07 - rest api.md",
     "Snacks/2023-06-05 - spring-la-mia-pizzeria-relazioni.md",
+    "Snacks/2023-05-31 - spring-la-mia-pizzeria-relazioni.md",
+    "Snacks/2023-05-30 - spring-la-mia-pizzeria-crud - 3.md",
+    "Snacks/2023-05-26 - spring-la-mia-pizzeria-crud.md",
+    "Snacks/2023-05-23 - java-calculator-tester.md",
+    "Snacks/2023-05-12 - 1 - java-wish-list.md",
+    "Snacks/2023-05-17 - java-gestore-eventi.md",
+    "Snacks/2023-05-29 - spring-la-mia-pizzeria-crud - 2.md",
+    "Live/2023-06-06 - spring-security-live.md",
     "Live/2023-06-05 - crud books relazioni.md",
     "Live/2023-05-31 - crud books relazioni.md",
     "Live/2023-06-01 - crud recap (con rel 1aN).md",
@@ -168,12 +174,6 @@
     "Tips&Tricks/Collection.md",
     "Live/2023-05-29 - crud books.md",
     "Snacks/2023-05-24 - best-of-the-year.md",
-    "Snacks/2023-05-23 - java-calculator-tester.md",
-    "Live/2023-05-25 - live thymeleaf.md",
-    "Live/2023-05-11 - 2 - java-polygon.md",
-    "Live/2023-05-15 - long lavanderia.md",
-    "Live/2023-05-18 - db-airport.md",
-    "Live/2023-05-19 - db-aeroporto.md",
     "__assets/imgs/Pasted image 20230526120844.png",
     "__assets/imgs/design-best-2021.drawio.png",
     "__assets/imgs/Pasted image 20230524143144.png",
