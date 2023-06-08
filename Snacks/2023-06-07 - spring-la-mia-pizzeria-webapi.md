@@ -2,6 +2,7 @@
 `spring-la-mia-pizzeria-webapi`
 
 ## Todo
+### Day 1
 > [!attention] IMPORTANTE
 > Ricordatevi di sganciare la vostra vecchia repository e di crearne una nuova per questo esercizio, che prosegue il lavoro della pizzeria, dove lo avevate lasciato.
 
@@ -18,3 +19,8 @@ Diamo la possibilità di:
 - *cancellare una pizza*
 
 Queste operazioni devono poter essere eseguite tramite `PostMan`, non preoccupiamoci quindi della parte di frontend per ora.
+
+### Day 2
+Facciamo un altro sforzo: creiamo un semplice progetto frontend che le richiami e tramite `vuejs` mostri in pagina i dati.
+
+Vogliamo una pagina per la *lista delle pizze* (filtrabili per `nome`), una per la creazione di una *nuova pizza* e il pulsante per la *cancellazione di una pizza*.
