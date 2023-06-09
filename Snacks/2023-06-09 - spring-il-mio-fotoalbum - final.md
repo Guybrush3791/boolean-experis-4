@@ -38,3 +38,18 @@ La `webapp` originariamente progettata per un fotografo che vuole mostrare le su
 Per fare queste operazioni gli utenti avranno il ruolo di *amministratori*, ma soltanto delle loro foto, non di quelle degli altri. E’ importante quindi poter gestire un livello di protezione adeguato.
 È stata inoltre introdotta la figura del *superadmin*, che ha il potere di *nascondere qualsiasi foto* presente nella piattaforma per aumentare la sicurezza e la moderazione delle foto. 
 Il *superadmin* quindi potrà agire sulla visibilità pubblica delle foto e nasconderle a tutti gli utenti.
+
+### Extra
+> [!attention] SOLO PER CHI HA FINITO
+- creare un altro livello di utenza che sarà il `SUPERADMIN`. Questo utente deve poter *nascondere qualsiasi foto* presente nel portale (moderarla). Gli utenti normali dovranno poter inserire, modificare, cancellare, visualizzare lato `ADMIN` *solo le loro foto* (prevedere quindi i controlli di sicurezza per *non far gestire foto di altri utenti*)
+- poter commentare una foto inviando il commento tramite *`POST` webapi* (quindi si vedrà una soluzione tipo `/photos/id-foto/comments` in `POST`). L’utente proprietario di quella foto deve poter *visualizzare i commenti* (ma *non rispondere*).
+- in `admin` invece di inserire il link all’immagine *gestire l’upload*
+- aggiungere *ulteriori controlli di validazione*
+- migliore gestione errori di validazione *lato frontend* se giunge una risposta dalla webapi con errore di validazione in base al field di errore mostrarlo sotto relativo input invece di un alert generico)
+- realizzare in `homepage` un *carousel delle foto* con pulsanti `avanti`/`indietro`/`autoplay`
+- pensare a un qualche sistema per far accedere alle `webapi` solo da loggati *chiamandole tramite Postman* - non tramite pagina della webapp
+- aggiungendo* le coordinate di una foto* su dove è stata scattata, per poterla vedere `geolocalizzata` in una *mappa di google maps*
+- il `superadmin` deve avere una pagina per *le statistiche* contenenti ad esempio:
+	- quante foto ha pubblicato ciascun utente
+	- il numero di commenti ricevuti per ogni foto
+	- ecc
