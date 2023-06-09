@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Snacks/2023-06-09 - spring-il-mio-fotoalbum - final.md",
+                "file": "Tips&Tricks/SpringBoot REST API login.md",
                 "mode": "preview",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Snacks/2023-06-09 - spring-il-mio-fotoalbum - final.md",
+                "file": "Tips&Tricks/SpringBoot REST API login.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Snacks/2023-06-09 - spring-il-mio-fotoalbum - final.md",
+                "file": "Tips&Tricks/SpringBoot REST API login.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Snacks/2023-06-09 - spring-il-mio-fotoalbum - final.md"
+                "file": "Tips&Tricks/SpringBoot REST API login.md"
               }
             }
           }
@@ -146,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1899614acd1d278f",
+  "active": "491b70ce4f9d5532",
   "lastOpenFiles": [
-    "Tips&Tricks/MacOS - MySQL.md",
     "Snacks/2023-06-09 - spring-il-mio-fotoalbum - final.md",
+    "Tips&Tricks/SpringBoot REST API login.md",
+    "Tips&Tricks/MacOS - MySQL.md",
     "Live/2023-06-08 - rest api frontend.md",
     "Tips&Tricks/Git.md",
     "Snacks/2023-06-08 - spring-la-mia-pizzeria-webapi.md",
@@ -173,7 +174,6 @@
     "Tips&Tricks/Spring boot + Thymeleaf init.md",
     "Tips&Tricks/JUnit Jupiter.md",
     "Tips&Tricks/Java Maven + JDBC.md",
-    "Tips&Tricks/Java.md",
     "__assets/imgs/Pasted image 20230526120844.png",
     "__assets/imgs/design-best-2021.drawio.png",
     "__assets/imgs/Pasted image 20230524143144.png",

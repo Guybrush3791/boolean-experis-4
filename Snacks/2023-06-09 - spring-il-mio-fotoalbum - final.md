@@ -47,7 +47,7 @@ Il *superadmin* quindi potrà agire sulla visibilità pubblica delle foto e nasc
 - aggiungere *ulteriori controlli di validazione*
 - migliore gestione errori di validazione *lato frontend* se giunge una risposta dalla webapi con errore di validazione in base al field di errore mostrarlo sotto relativo input invece di un alert generico)
 - realizzare in `homepage` un *carousel delle foto* con pulsanti `avanti`/`indietro`/`autoplay`
-- pensare a un qualche sistema per far accedere alle `webapi` solo da loggati *chiamandole tramite Postman* - non tramite pagina della webapp
+- pensare a un qualche sistema per far accedere alle `webapi` solo da loggati *chiamandole tramite Postman* o *VueJS* (vedi [[SpringBoot REST API login]])
 - aggiungendo* le coordinate di una foto* su dove è stata scattata, per poterla vedere `geolocalizzata` in una *mappa di google maps*
 - il `superadmin` deve avere una pagina per *le statistiche* contenenti ad esempio:
 	- quante foto ha pubblicato ciascun utente
