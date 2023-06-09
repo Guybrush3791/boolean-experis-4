@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Live/2023-06-08 - rest api frontend.md",
-                "mode": "source",
+                "file": "Snacks/2023-06-09 - spring-il-mio-fotoalbum - final.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Live/2023-06-08 - rest api frontend.md",
+                "file": "Snacks/2023-06-09 - spring-il-mio-fotoalbum - final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Live/2023-06-08 - rest api frontend.md",
+                "file": "Snacks/2023-06-09 - spring-il-mio-fotoalbum - final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Live/2023-06-08 - rest api frontend.md"
+                "file": "Snacks/2023-06-09 - spring-il-mio-fotoalbum - final.md"
               }
             }
           }
@@ -148,12 +148,14 @@
   },
   "active": "491b70ce4f9d5532",
   "lastOpenFiles": [
+    "Tips&Tricks/MacOS - MySQL.md",
+    "Snacks/2023-06-09 - spring-il-mio-fotoalbum - final.md",
+    "Live/2023-06-08 - rest api frontend.md",
     "Tips&Tricks/Git.md",
     "Snacks/2023-06-08 - spring-la-mia-pizzeria-webapi.md",
     "Snacks/2023-06-07 - spring-la-mia-pizzeria-webapi.md",
     "Snacks/2023-06-05 - spring-la-mia-pizzeria-relazioni.md",
     "Snacks/2023-06-06 - spring-la-mia-pizzeria-security.md",
-    "Live/2023-06-08 - rest api frontend.md",
     "Live/2023-06-07 - rest api live.md",
     "Live/2023-06-07 - rest api.md",
     "Snacks/2023-05-31 - spring-la-mia-pizzeria-relazioni.md",
@@ -169,11 +171,9 @@
     "Live/2023-06-01 - crud recap (con rel 1aN).md",
     "Tips&Tricks/Spring CRUD.md",
     "Tips&Tricks/Spring boot + Thymeleaf init.md",
-    "Tips&Tricks/MacOS - MySQL.md",
     "Tips&Tricks/JUnit Jupiter.md",
     "Tips&Tricks/Java Maven + JDBC.md",
     "Tips&Tricks/Java.md",
-    "Tips&Tricks/Collection.md",
     "__assets/imgs/Pasted image 20230526120844.png",
     "__assets/imgs/design-best-2021.drawio.png",
     "__assets/imgs/Pasted image 20230524143144.png",
